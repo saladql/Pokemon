@@ -1,0 +1,5 @@
+https://pokeapi.co/api/v2/:pokemonByNameOrId
+https://pokeapi.co/api/v2/ability/:pokeAbilityId
+https://pokeapi.co/api/v2/berry/:pokeberryByNameOrId
+https://pokeapi.co/api/v2/ability?limit=20&offset=1
+https://pokeapi.co/api/v2/pokemon?limit=60&offset=0
