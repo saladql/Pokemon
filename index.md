@@ -21,3 +21,4 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{}’
 
 
 ### More Docs coming soon!
+![Data Graph](https://github.com/saladql/Pokemon/raw/master/1578246619.png)
